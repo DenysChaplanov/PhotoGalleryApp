@@ -1,5 +1,5 @@
 ## 📝About
-PhotoGalleryApp is an Android application developed as part of the educational process outlined in the book "Android Programming: The Big Nerd Ranch Guide". It serves as a client for Flickr, allowing users to browse and display photos from the Flickr public database. The application demonstrates usage of services, multithreading, web service calls, and more.
+PhotoGalleryApp is an Android application developed as part of the educational process outlined in the book "Android Programming: The Big Nerd Ranch Guide". It serves as a client for Flickr, allowing users to browse, search and display photos from the Flickr public database. The application demonstrates usage of services, multithreading, web service calls, and more.
 
 ## ✨Features
 - **Browsing and Displaying Photos**: Users can effortlessly browse through a vast collection of photos sourced from the Flickr public database. The application provides a visually appealing interface for viewing images.
